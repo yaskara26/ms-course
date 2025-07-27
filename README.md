@@ -5,6 +5,6 @@
 - [x] Hr-payroll
 - [x] Hr-eureka-server
 - [x] Hr-api-gateway-zuul
-- [ ] Hr-config-server
-- [ ] Hr-user
-- [ ] Hr-oauth
+- [x] Hr-config-server
+- [x] Hr-user
+- [x] Hr-oauth
